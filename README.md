@@ -1,5 +1,5 @@
 # About me
-Hi everyone!👋 I'm a ressourceful IT student in the University Lumiere Lyon 2 who's passionated and engaged to strenghten and deepen its knowledge specifically in the skills and the methodology to build a full-fledged data project. I'm also interested to train myself into the new technologies of data valorization📊 and its deployment. 
+Hi everyone!👋 I'm a resourceful IT student in the University Lumiere Lyon 2 who's passionated and engaged to strengthen and deepen its knowledge specifically in the skills and the methodology to build a full-fledged data project. I'm also interested to train myself into the new technologies of data valorization📊 and its deployment. 
 
 Aside from that, my hobbies are constantly around playing videogames🎮, instructing myself with novels📚 and watching movies and sitcoms🍿. 
 
